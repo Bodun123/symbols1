@@ -1,0 +1,86 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/a3/9a/cf/a39acf82955ece3200f48235e0dbc144.jpg);
+    background-size: 100%;
+}
+p {
+    font-size: 50px;
+}
+.p1 {
+    background-color: forestgreen;
+    color: yellow;
+    text-align: center;
+    font-variant: inherit;
+}
+.p2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: overline;
+    text-decoration-style: double;
+    text-decoration-color: cadetblue;
+}
+.p3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-color: burlywood;
+    text-shadow: 2px 0px white, 0px 2px black, 1px 2px red;
+}
+.p4 {
+    font-family: cursive;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-position: under;
+    text-decoration-color: violet;
+    text-shadow: 2px 2px green, 4px 4px black;
+}
+.p9 {
+    text-transform: uppercase;
+    text-shadow: 0 15px 15px red;
+}
+.s1 {
+    font-size: 1.5em;
+    color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p8 {
+    text-shadow: 0px 2px red, 5px 0px black;
+}
+.p5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: blueviolet;
+    text-shadow: 0px 4px darkcyan 4px 0px darkolivegreen;
+}
+.p6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-color: brown;
+    text-shadow: 0px 2px blue, 2px 2px green, 3px 3px darkgreen;
+}
+.p7 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: chocolate;
+}
+.s2 {
+    font-family: monospace;
+    color: darkgrey;
+    font-size: 1.4em;
+}
+.s3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    font-size: 1em;
+}
+.s4 {
+    font-family: cursive;
+    color: blanchedalmond;
+    text-shadow: 2px 2px white, 4px 4px black;
+
+}
+.p10 {
+    text-shadow: 2px 2px red, 2px 2px white, 5px 5px black, 3px 3px green;
+}
